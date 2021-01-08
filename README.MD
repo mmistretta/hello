@@ -1,6 +1,6 @@
 # Prereqs
 
-- docker installed and running
+- docker installed and running, feel free to use podman instead
 - OpenShift 4 cluster 
 - oc tools 
 
